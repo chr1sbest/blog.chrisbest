@@ -1,0 +1,12 @@
+{
+  "a-simple-article": {
+    "title": "A Simple Article",
+    "published": true,
+    "date": "07-05-2014"
+  },
+  "start-a-blog-with-harp": {
+    "title": "Start a blog with Harp",
+    "published": true,
+    "date": "07-12-2014"
+  }
+}
