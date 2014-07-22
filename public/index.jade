@@ -2,11 +2,15 @@ h2 Adventures of a Self-Taught Developer
 p
     ul
         each article, slug in public.articles.cs._data
-            if article.published!==false
             li
-                a(href="/articles/cs/#{ slug }") #{ article.title }
-                span.date   | #{ article.date }
-                p #{ article.description }
+                if article.published!==false
+                    a(href="/articles/cs/#{ slug }") #{ article.title }
+                    span.date   | #{ article.date }
+                    p(style="font-style: italic") #{ article.description }
+                else
+                    p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+                    p(style="font-style: italic") #{ article.description }
+
 
 br
 h2 Topics in Psychology
@@ -14,8 +18,10 @@ p
     ul
         each article, slug in public.articles.psychology._data
             if article.published!==false
-            li
-                a(href="/articles/psychology/#{ slug }") #{ article.title }
+                a(href="/articles/cs/#{ slug }") #{ article.title }
                 span.date   | #{ article.date }
-                p #{ article.description }
+                p(style="font-style: italic") #{ article.description }
+            else
+                p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+                p(style="font-style: italic") #{ article.description }
 

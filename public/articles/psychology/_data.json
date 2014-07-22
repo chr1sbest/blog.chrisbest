@@ -1,14 +1,8 @@
 {
-  "impostor-syndrome": {
-    "title": "Impostor Syndrome",
-    "description": "Lorem ipsum test asdjfn lasdf s adfj ajsh dfjaksdf hja sdfjas dfs hfdaksjdf hasjfd ",
-    "published": true,
-    "date": "TODO"
-  },
   "sleep-tips": {
     "title": "5 Tips for Better Sleep",
-    "description": "Lorem ipsum test asdjfn lasdf s adfj ajsh dfjaksdf hja sdfjas dfs hfdaksjdf hasjfd ",
-    "published": true,
-    "date": "TODO"
+    "description": "Simple tips for improving the quantity and quality of your sleep.",
+    "published": false,
+    "date": "TBD"
   }
 }
