@@ -1,11 +1,13 @@
 {
   "impostor-syndrome": {
     "title": "Impostor Syndrome",
+    "description": "Lorem ipsum test asdjfn lasdf s adfj ajsh dfjaksdf hja sdfjas dfs hfdaksjdf hasjfd ",
     "published": true,
     "date": "TODO"
   },
   "sleep-tips": {
-    "title": "5 Tips to Sleep Better",
+    "title": "5 Tips for Better Sleep",
+    "description": "Lorem ipsum test asdjfn lasdf s adfj ajsh dfjaksdf hja sdfjas dfs hfdaksjdf hasjfd ",
     "published": true,
     "date": "TODO"
   }

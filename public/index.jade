@@ -1,16 +1,21 @@
-h1 blog.chrisbest
+h2 Adventures of a Self-Taught Developer
 p
-p Topics in Computer Science
     ul
         each article, slug in public.articles.cs._data
             if article.published!==false
             li
-                a(href="/articles/cs/#{ slug }") #{ article.date } | #{ article.title }
+                a(href="/articles/cs/#{ slug }") #{ article.title }
+                span.date   | #{ article.date }
+                p #{ article.description }
 
-p Topics in Psychology
+br
+h2 Topics in Psychology
+p
     ul
         each article, slug in public.articles.psychology._data
             if article.published!==false
             li
-                a(href="/articles/psychology/#{ slug }") #{ article.date } | #{ article.title }
+                a(href="/articles/psychology/#{ slug }") #{ article.title }
+                span.date   | #{ article.date }
+                p #{ article.description }
 
