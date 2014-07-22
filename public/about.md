@@ -1,3 +1,5 @@
-# About Kenneth
+# About Chris
 
-Hi, I’m Kenneth. Sometimes I write about building things with [Harp](http://harpjs.com).
+Hi, I’m Chris Best. I'm a self-taught software developer with a degree in Psychology.
+
+I'm not a good writer, but I'd like to be. Hopefully writing blog articles will help!

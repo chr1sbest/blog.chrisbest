@@ -1,8 +1,16 @@
-h1 blog.chrisbe.st
-p Recent Articles
+h1 Articles
+p
+p Adventures of a Self Taught Developer
+    ul
+        each article, slug in public.articles.cs._data
+            if article.published!==false
+            li
+                a(href="/articles/cs/#{ slug }") #{ article.date } | #{ article.title }
 
-ul
-    each article, slug in public.articles._data
-        if article.published!==false
-        li
-            a(href="/articles/#{ slug }") #{ article.title } | #{ article.date }
+p Topics in Psychology
+    ul
+        each article, slug in public.articles.psychology._data
+            if article.published!==false
+            li
+                a(href="/articles/psychology/#{ slug }") #{ article.date } | #{ article.title }
+

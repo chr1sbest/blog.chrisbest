@@ -5,5 +5,7 @@ html
   body
     != partial("_shared/nav")
     != yield
+    if current.path[0] == "articles"
+      != partial("_shared/disqus")
     footer
       != partial("_shared/nav")
