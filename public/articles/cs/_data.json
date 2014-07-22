@@ -8,13 +8,13 @@
   "comparison-of-sorting-algorithms": {
     "title": "Comparison of Sorting Algorithms",
     "description": "Implementations and use-cases of common sorting algorithms in Python.",
-    "published": true,
-    "date": "07/21/2014"
+    "published": false,
+    "date": "In Progress"
   },
   "closing-the-gap": {
     "title": "Closing the Gap",
     "description": "The disadvantages of being a software engineer without a formal education and the steps to take to resolve them.",
     "published": false,
-    "date": "TBD"
+    "date": "In Progress"
   }
 }
