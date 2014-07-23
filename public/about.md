@@ -1,4 +1,4 @@
-About me
+**About me**
 ---
 Studied psychology at UC Berkeley while researching sleep and memory consolidation in Matt Walker's Lab. Being the zealous academic that I am, I took every opportunity to apply my lab's research during lectures.
 
@@ -6,7 +6,7 @@ Studied psychology at UC Berkeley while researching sleep and memory consolidati
 
 After graduating, I worked a couple jobs and eventually realized I wanted to be a software engineer. I found a few brilliant mentors, left my job to teach myself computer science & web development full-time, co-founded a startup, left when the money ran out, studied for a month, and now I'm currently interviewing.
 
-About this blog
+**About this blog**
 ---
 Built with Harp on top of Nodejs. Hosted on Heroku. Disqus for comments.
 
