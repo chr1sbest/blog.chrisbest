@@ -53,7 +53,7 @@ An alternative to using map/filter would be to use the Pythonic **List Comprehen
 9) Switch Object
 ----
 Python does not have Switch/Case for logic handling. Fortunately, the if/elif/else syntax is very clean. However, you can sacrifice a negligible amount of space to build a switch object to save a negligible amount of time (and have better readability and reusability!)
-<script src="https://gist.github.com/chr1sbest/7d4cbf2f93978a722f74.js"></script>
+<script src="https://gist.github.com/chr1sbest/cf8eddd9ce78c58eccc7.js"></script>
 
 10) Decorators
 ----

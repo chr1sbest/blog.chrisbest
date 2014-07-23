@@ -16,4 +16,4 @@ I want to write articles to give perspective on being a self-taught developer an
 
 **Topics in Psychology**
 
-A bachelor's degree from an accredited University, although labelled "irrelevant" to my trade, is not something I am ashamed of. The knowledge gained from the courses I took as a Psychology major have changed my life for the better and shaped me into a happy, tolerant, and confident individual. I want to write articles on some of the more interesting and relatable aspects of human nature.
+A bachelor's degree from an established University, although labelled "irrelevant" to my trade, is not something I am ashamed of. The knowledge gained from the courses I took as a Psychology major have changed my life for the better and shaped me into a happy, tolerant, and confident individual. I want to write articles on some of the more interesting and relatable aspects of human nature.

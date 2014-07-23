@@ -14,4 +14,4 @@ color_switch = {
  'blue': 'sky',
  'yellow': 'sun'
 }
-color_switch.get(color, 'grey') # Grey is the default
+print color_switch.get(color, 'grey') # Grey is the default
