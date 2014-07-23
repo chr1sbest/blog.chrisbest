@@ -8,7 +8,7 @@ elif color == 'yellow':
 else:
     print 'grey'
 
-# Build a switch object to map arguments->commands
+# Build a switch object to map arguments -> values
 color_switch = {        
  'red': 'firetruck',
  'blue': 'sky',
