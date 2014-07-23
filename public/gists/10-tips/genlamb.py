@@ -6,5 +6,5 @@ for beer in ipas:
     if beer.startswith('s'):
         s_ipas.append(beer)
 
-s_ipas = [beer for beer in ipas if beer.startswith('s')]  # Generator
 s_ipas = filter(lambda beer: beer.startswith('s'), ipas)  # Lambda
+s_ipas = [beer for beer in ipas if beer.startswith('s')]  # List Comprehension

@@ -1,33 +1,17 @@
-# Python's doesn't have a switch case.
-# If/elif/else is pretty clean in Python, but its still a hassle.
+# Typical if/elif/else
 if color == 'red':
-    apply_red()
+    print 'firetruck'
 elif color == 'blue':
-    apply_blue()
-elif color == 'green':
-    apply_green()
-elif color == 'orange':
-    apply_orange()
-elif color == 'purple':
-    apply_purple()
-elif color == 'yelow':
-    apply_yellow()
+    print 'sky'
+elif color == 'yellow':
+    print 'sun'
 else:
-    do_something_else()
+    print 'grey'
 
 # Build a switch object to map arguments->commands
 color_switch = {        
- 'red': apply_red       # Functions passed as values
- 'blue': apply_blue
- 'green': apply_green
- 'orange': apply_orange
- 'purple': apply_purple
- 'yellow': apply_yellow
+ 'red': 'firetruck',
+ 'blue': 'sky',
+ 'yellow': 'sun'
 }
-
-# Only one comparison made. (Is the value at this hashtable address not None?)
-if color_switch[color]: 
-    color_switch[color]()
-else:
-    do_something_else
-
+color_switch.get(color, 'grey') # Grey is the default

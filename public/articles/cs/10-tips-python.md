@@ -1,11 +1,47 @@
-#Hello 
+#10 Tips for Cleaner Python
 
-Lorem ipsum dolor sit amet, ipsum omnes at mei. Illum errem concludaturque ei mel. His cu suscipiantur conclusionemque. Etiam tamquam forensibus sed in, ex eum inani invidunt consectetuer. Facete ponderum suavitate usu te.
+1) Slice Syntax
+----
+Python's syntactic sugar at it's finest. Accessing specific slices in an array has never been easier! Using array[begin:end] gives you a slice of everything from **begin** up to, but not including, **end**.
 
-Dolor laudem putent ut eam, no vix dictas apeirian qualisque, pro cu dicant aliquam incorrupte. Tollit noluisse eam eu. Nam vide electram periculis cu. Mei debitis impedit at. Vix affert utroque admodum te, pri eu albucius ponderum expetenda. Labores albucius no est, atqui saperet omittam vix ad. Te expetenda intellegebat mel, qui cu error consetetur voluptatibus.
+As a bonus, you can optionally include an interval to step through the array using [begin:end:step].
 
-Cu eum incorrupte accommodare, eum feugait eleifend ut. Ei nobis perfecto pro. Et vis blandit adipisci. Consul propriae vis ad, eam ne volumus singulis. Iisque detracto in sea.
+2) String Formatting
+----
+String concatenation with + is pretty nifty, but it's easy to forget punctuation, spaces, and +'s when concatenating multiple strings. 
 
-Ne sit timeam assentior. Laoreet percipit tacimates ex sed, id vidit liberavisse eos. Choro vitae conceptam sed eu, nominati consequat mel ut. Id nam dico suavitate explicari, ei ius facete vocent.
+str.format() lets you build a readable format, and uses the \__str\__ representation of all variables passed in as parameters (as opposed to calling str() on every non-string parameter manually).
 
-Quo ei purto admodum corrumpit, cum in ipsum contentiones deterruisset. Iriure accusamus eum cu. No praesent rationibus est, legere altera in has, mucius melius pri in. Liber aperiri id mei. Per ut possit senserit contentiones, eius sadipscing mea an. Ex putent assentior vis.
+3) Single Line Variable Assignment
+----
+This isn't that big of a deal in itself, but it's convenient to be able to declare similar variables on the same line. The real bonus in single line variable declaration is in the next tip.
+
+4) Swap
+----
+Swapping elements typically requires a temporary variable to hold onto one of the elements. With single line variable assignment, we can bypass this.
+
+5) Enumerate
+----
+Enumerate is a super useful function if you need access to the index and value of an iterable object.
+
+6) Zip
+----
+Zip can be useful when you need to iterate over two lists at the same time.
+
+7) Keyword Arguments
+----
+Keyword arguments are typically used to supply default arguments to a function, but they give the added benefit of clarity to function calls that take multiple parameters.
+
+8) Lambdas & List Comprehensions
+----
+Higher order functions allows for some fancy footwork using functional programming. For example, passing anonymous functions, or lambdas in Python, can let you do things like simplify certain "for loop" iterations to build a list with a single line.
+
+An alternative to using map/filter would be to use the Pythonic **List Comprehension**. For building new lists/tuples/dictionaries, Guido recommends using list comprehensions over map/filter due to it's readability (and very very slight edge in performance).
+
+9) Switch Object
+----
+Python does not have Switch/Case for logic handling. Fortunately, the if/elif/else syntax is very clean. However, you can sacrifice a negligible amount of space to build a switch object to save a negligible amount of time (and have better readability and reusability!)
+
+10) XOR
+----
+If you have two conditions in an if statement and want to run specific logic if one is True while the other is False (but don't care which is which), this handy XOR hack can simplify things. 
