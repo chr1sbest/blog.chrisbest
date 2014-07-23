@@ -55,7 +55,8 @@ An alternative to using map/filter would be to use the Pythonic **List Comprehen
 Python does not have Switch/Case for logic handling. Fortunately, the if/elif/else syntax is very clean. However, you can sacrifice a negligible amount of space to build a switch object to save a negligible amount of time (and have better readability and reusability!)
 <script src="https://gist.github.com/chr1sbest/7d4cbf2f93978a722f74.js"></script>
 
-10) XOR
+10) Decorators
 ----
-If you have two conditions in an if statement and want to run specific logic if one is True while the other is False (but don't care which is which), this handy XOR hack can simplify things. 
-<script src="https://gist.github.com/chr1sbest/ac0678af22990e3c4dce.js"></script>
+Python decorators allow you to elegantly wrap a function around a different function. The clever usage of decorators warrants an entire article on it's own, but simple use cases are with memoization and keeping track of the time it takes for a function to execute.
+<script src="https://gist.github.com/chr1sbest/7936197828e432dcbfcd.js"></script>
+
