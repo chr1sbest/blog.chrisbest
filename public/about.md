@@ -8,7 +8,7 @@ After graduating, I worked a couple jobs and eventually realized I wanted to be 
 
 About this blog
 ---
-Built with Harpjs on top of Node. Hosted on Heroku. Disqus for comments.
+Built with Harp on top of Nodejs. Hosted on Heroku. Disqus for comments.
 
 **Adventures of a Self-Taught Developer**
 
