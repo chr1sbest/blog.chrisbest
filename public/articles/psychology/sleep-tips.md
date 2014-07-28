@@ -40,7 +40,7 @@ There has been some research on the effects of different wavelengths of light on
 -----
 As if you didn't already have a reason to exercise. 
 
-Interestingly, better sleep results in increased energy and testosterone for exercise (gainz), while daily excercise results in deeper sleep (delta sleep), where human growth hormone is released (gainz). AKA gainz on gainz. Thomas Gainsborough won't have \*\*\*\* on you.
+Interestingly, better sleep results in increased energy and testosterone for exercise (gainz), while daily exercise results in deeper sleep (delta sleep), where human growth hormone is released (gainz). AKA gainz on gainz. Thomas Gainsborough won't have \*\*\*\* on you.
 
 Exercise. Sleep better. Exercise better.
 
