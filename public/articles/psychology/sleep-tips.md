@@ -10,7 +10,7 @@ The following five tips are the most helpful tips I've learned from my time as a
 -----
 "Your bed is a sanctuary for sleep, and sleep only.. and sex." I distinctly remember the laughter in the lecture hall when Dr. Allison Harvey added the caveat. The additional advice of having sex in your beds isn't to benefit your sleep, it is moreso that it "isn't reasonable to ask adults to not have sex in their beds."
 
-Forget the sex caveat -- more importantly, the key idea is to avoid associating your bed with any stimulating activity. The power of association is often underestimated. I've found that people that come to me asking for help with their sleep often play video games in bed, use their laptops in bed, or have overly-aggressive pillow fights. If these activities become a habit, your mind will start to associate your place of sleep with the stimulation and this will make it harder for your mind to relax and ultimately fall asleep.
+Forget the sex caveat -- more importantly, the key idea is to avoid associating your bed with any stimulating activity. The power of association is often underestimated. I've found that people who come to me asking for help with their sleep often play video games in bed, use their laptops in bed, or have overly-aggressive pillow fights. If these activities become a habit, your mind will start to associate your place of sleep with the stimulation and this will make it harder for your mind to relax and ultimately fall asleep.
 
 **2) Worry Cycle**
 -----
@@ -30,7 +30,7 @@ The simple solution is to break the cycle completely. This can be done by turnin
 
 **3) Lighting**
 -----
-The most influential external factor of sleep is **LIGHT**. The mere presence of lights triggers a cascade of activty from your eyes to your brain to every corner of your body. To sum things up, the presence of light inhibits the production of *melatonin*, the hormone that is responsible for drowsiness (darkness -> sleepy).
+The most influential external factor of sleep is **LIGHT**. The mere presence of light triggers a cascade of activty from your eyes to your brain to every corner of your body. To sum things up, the presence of light inhibits the production of *melatonin*, the hormone that is responsible for drowsiness (darkness -> sleepy).
 
 If the previous tips weren't enough to convince you, hopefully this will be the nail in the coffin. **Keep your cell phones and laptops out of your bed, especially at night!** Checking your cell phone in bed is similar to telling your brain the sun is rising and it's time to wake up!
 
