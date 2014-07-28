@@ -20,7 +20,7 @@ str.format() lets you build a readable format, and uses the \__str\__ representa
 
 3) Single Line Variable Assignment
 ----
-This isn't that big of a deal in itself, but it's convenient to be able to assign similar variables on the same line. The real bonus in single line variable assigment is in the next tip.
+This isn't that big of a deal in itself, but it's convenient to be able to assign similar variables on the same line. The real bonus in single line variable assignment is in the next tip.
 <script src="https://gist.github.com/chr1sbest/75e6caa0e99163037b76.js"></script>
 
 4) Swap
