@@ -30,7 +30,7 @@ The simple solution is to break the cycle completely. This can be done by turnin
 
 **3) Lighting**
 -----
-The most influential external factor of sleep is **LIGHT**. The mere presence of light triggers a cascade of activty from your eyes to your brain to every corner of your body. To sum things up, the presence of light inhibits the production of *melatonin*, the hormone that is responsible for drowsiness (darkness -> sleepy).
+The most influential external factor of sleep is **LIGHT**. The mere presence of light triggers a cascade of activity from your eyes to your brain to every corner of your body. To sum things up, the presence of light inhibits the production of *melatonin*, the hormone that is responsible for drowsiness (darkness -> sleepy).
 
 If the previous tips weren't enough to convince you, hopefully this will be the nail in the coffin. **Keep your cell phones and laptops out of your bed, especially at night!** Checking your cell phone in bed is similar to telling your brain the sun is rising and it's time to wake up!
 
