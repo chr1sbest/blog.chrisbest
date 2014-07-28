@@ -19,11 +19,12 @@ h2
 p
     ul
         each article, slug in public.articles.psychology._data
-            if article.published!==false
-                a(href="/articles/cs/#{ slug }") #{ article.title }
-                span.date   | #{ article.date }
-                p(style="font-style: italic") #{ article.description }
-            else
-                p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-                p(style="font-style: italic") #{ article.description }
+            li
+                if article.published!==false
+                    a(href="/articles/psychology/#{ slug }") #{ article.title }
+                    span.date   | #{ article.date }
+                    p(style="font-style: italic") #{ article.description }
+                else
+                    p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+                    p(style="font-style: italic") #{ article.description }
 
