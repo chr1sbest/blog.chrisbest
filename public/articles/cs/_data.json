@@ -1,4 +1,10 @@
 {
+  "closing-the-gap": {
+    "title": "Closing the Gap",
+    "description": "The disadvantages of being a software engineer without a formal education and the steps to take to resolve them.",
+    "published": true,
+    "date": "08/26/2014"
+  },
   "10-tips-python": {
     "title": "10 Tips for Writing Cleaner Python",
     "description": "Additional guidelines on top of PEP-8 for cleaner Python code.",
@@ -8,12 +14,6 @@
   "comparison-of-sorting-algorithms": {
     "title": "Comparison of Sorting Algorithms",
     "description": "Implementations and use-cases of common sorting algorithms in Python.",
-    "published": false,
-    "date": "In Progress"
-  },
-  "closing-the-gap": {
-    "title": "Closing the Gap",
-    "description": "The disadvantages of being a software engineer without a formal education and the steps to take to resolve them.",
     "published": false,
     "date": "In Progress"
   }
