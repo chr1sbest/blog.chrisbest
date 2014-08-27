@@ -4,7 +4,7 @@ Making the jump from a self-taught novice *web developer* to a self-taught novic
 
 **Building a website is *easy*.**
 
-Serving static content on the internet to whomever is unfortunate enough to type in the URL that maps to your server, is easy. Copy pasting javascript snippets at the end of your `<body`> section, crossing your fingers and praying to the [cargo-cult gods](http://en.wikipedia.org/wiki/Cargo_cult_programming) that your smooth-scrolling jQuery plugin will work, is easy. Writing blog articles about the relative ease of writing blog articles (**I**'m **s**o **m**eta, **e**ven **t**his **a**ssertion), is easy.
+Serving static content on the internet to whomever is unfortunate enough to type in the URL that maps to your server, is easy. Copy pasting javascript snippets at the end of your `<body`> section, crossing your fingers and praying to the [cargo-cult gods](http://en.wikipedia.org/wiki/Cargo_cult_programming) that your jQuery plugin will work, is easy. Writing blog articles about the relative ease of writing blog articles (**I**'m **s**o **m**eta, **e**ven **t**his **a**ssertion), is easy.
 
 **Engineering scalable, reusable software solutions is not.**
 
