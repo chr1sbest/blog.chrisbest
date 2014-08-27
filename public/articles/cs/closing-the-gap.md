@@ -35,19 +35,23 @@ There are brilliant people who have collected and documented these common tool-b
 Fortunately, in the age we live in, all of this information can be found online. You're more than capable of finding it, but here are a few of the resources I've learned from:
 
 1.  **1a) Data Structures? How about UC Berkeley's [CS61b](http://www.cs.berkeley.edu/~jrs/61b/)**
-    * This course also has full recordings of lectures on youtube. Super useful in learning about common data structures, understanding when to use them, and learning how to implement them.
+    * -This course also has full recordings of lectures on youtube. Super useful in learning about common data structures, understanding when to use them, and learning how to implement them.
+    * -Learning how and when to use common data structures will benefit your understanding and appreciation of scalability.
 2.  **1b) Data Structures in [Python!](http://interactivepython.org/courselib/static/pythonds/index.html)**
-    * Basically the same as above, without video, but in Python.
+    * -Covers similar information to the course above in Python, but without video.
 3.  **2a) Algorithmic Analysis? How about Princeton & Coursera's [Algorithms Pt.1](https://www.coursera.org/course/algs4partI)**
-    * Everything you need to know about understanding best/worst/average case space and time complexity of common data structures.
+    * -Everything you need to know about understanding best/worst/average case space and time complexity of common data structures.
+    * -Being able to analyze algorithms will allow you to be more informed on the tradeoffs of different solutions.
 4.  **2b) Algorithm Visualization in [D3](http://bost.ocks.org/mike/algorithms/)**
-    * Beautiful and insightful representation of a few algorithms, useful as supplementary info to the course above.
+    * -Beautiful and insightful representation of a few algorithms, useful as supplementary info to the course above.
 5.  **3) OOP Design? [Youtube Series!](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07)**
-    * Java implementations of all the Gang of Four's famous design patterns.
+    * -Java implementations of all the Gang of Four's famous design patterns.
+    * -These design patterns are tried-and-true patterns to solve common problems in software engineering.
 6.  **4a) What's an interpreter? [Peter Norvig](http://norvig.com/lispy.html) will tell you! **
-    * Simple lisp interpreter.
+    * -This is an implementation of a simple lisp interpreter in Python.
+    * -Understanding how an interpreter functions will make it easier to pick up new languages (or even write your own).
 7.  **4b) Mary Rose Cook's [Lisp Interpreter in Javascript](https://www.youtube.com/watch?v=hqnTvuvXPCc)**
-    * Another simple lisp interpreter!
+    * -Another simple lisp interpreter! This time in Javascript.
 
 In learning how to build tools, not only do you start to produce better software, but it becomes even easier to pick up other people's tools and build them into even better tools, which is kinda what it's all about.
 
