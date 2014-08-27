@@ -10,7 +10,7 @@ Serving static content on the internet to whomever is unfortunate enough to type
 
 **The Gap**
 ------
-As a self-taught developer in the infancy of my career, the qualities I brought to the table were passion, determination, and an open mentality towards learning new ideas. Learning was painful. Every day was painful. Thankfully, I had enough passion and determination to pad my head while I constantly smashed it against the metaphorical wall of autodidactism. Eventually I was able to learn enough to convince a few employers that I was a competent web developer without suffering too much brain damage.
+As a self-taught developer in the infancy of my career, the qualities I brought to the table were passion, determination, and an open mentality towards learning new ideas. Learning was painful. Every day was painful. Thankfully, I had enough passion and determination to pad my head while I repeatedly smashed it against the metaphorical wall of autodidactism. Eventually I was able to learn enough to convince a few employers that I was a competent web developer without suffering too much brain damage.
 
 Could I build a website? Yeah! Was I a competent web developer? Haha! **No**. 
 
