@@ -34,7 +34,7 @@ The parameters passed into the decorator and wrapped can be a little confusing.
 
 The time_decorator function is going to define a new function called "wrapped", run the timing code we want inside of it along with the function, and then return this new "wrapped" function. Using \*args and **kwargs allows us to handle a variable amount of positional arguments and any kwargs a function might use. All we have to do is attach @time_decorator on top of any function we want to decorate, and voila!
 
-One last thing to throw on. For the third time, functions are objects! While our decorated function will return the correct value, it's actually returning the new function that returns the new value. What does this mean? All the attributes on your decorated function are going to be overwritten by this new "wrapper" function -- attributes like the \_\_doc\_\_, \_\_name\_\_, etc.
+One last thing to throw on. For the third time, functions are objects! While our decorated function will return the correct value, it's actually returning the new function that returns the correct value. What does this mean? All the attributes on your decorated function are going to be overwritten by this new "wrapper" function -- attributes like the \_\_doc\_\_, \_\_name\_\_, etc.
 
 Here is a simple function, functools.wraps, that you can use to make sure the attributes of your decorated function don't get overwritten by it's wrapper! This handy function is also implemented as a @decorator :D
 
