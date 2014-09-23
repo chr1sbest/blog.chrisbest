@@ -57,6 +57,8 @@ Python does not have Switch/Case for logic handling. Fortunately, the if/elif/el
 
 10) Decorators
 ----
-Python decorators allow you to elegantly wrap a function around a different function. The clever usage of decorators warrants an entire article on it's own, but simple use cases are with memoization and keeping track of the time it takes for a function to execute.
+Python decorators allow you to elegantly wrap a function around a different function. The clever usage of decorators warrants an entire article on it's own, but simple use cases are with memoization and keeping track of the time it takes for a function to execute. 
+
+**Update:** Here is the article that [@decorators](http://blog.chrisbe.st/articles/cs/decorators) deserve, but possibly not the one they need right now.
 <script src="https://gist.github.com/chr1sbest/7936197828e432dcbfcd.js"></script>
 
