@@ -1,7 +1,13 @@
 {
+  "decorators": {
+    "title": "Introduction to Python @Decorators",
+    "description": "Building a @timeit decorator to measure the execution time of functions.",
+    "published": true,
+    "date": "09/23/2014"
+  },
   "closing-the-gap": {
     "title": "Closing the Gap",
-    "description": "The fundamentals of building tools.",
+    "description": "Becoming a self proclaimed tool-maker",
     "published": true,
     "date": "08/26/2014"
   },

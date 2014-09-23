@@ -59,7 +59,7 @@ Never forget: Theoretical understanding is awesome, but to really cement any new
 
 **Conclusion**
 -----
-I could have just written "the fundamentals of software engineering are the building blocks of skilled software engineering."
+I could have just written "the fundamentals of software engineering are the fundamentals of software engineering."
 
 Oops.
 
