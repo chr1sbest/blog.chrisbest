@@ -5,6 +5,7 @@ def timed_million_multiply(num):
     multiplied = million_multiply(num)
     end = now()
     ms_delta = (end - start) * 1000     # Milliseconds
+    print "Execution time: {0}ms".format(ms_delta)
     return multiplied
 
 def timed_million_divide(num1, num2):
@@ -12,5 +13,5 @@ def timed_million_divide(num1, num2):
     divided  = million_divide(num1, num2)
     end = now()
     ms_delta = (end - start) * 1000     # Milliseconds
-    print "Execution time: {0}".format(ms_delta)
+    print "Execution time: {0}ms".format(ms_delta)
     return divided

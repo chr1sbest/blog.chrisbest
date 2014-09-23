@@ -12,7 +12,7 @@ In this example, we have one function that takes **(1)** argument and multiplies
 
 One way to determine the time it takes for a function to run would be to find the time delta. We can do this by declaring the start time before running the function, declaring the stop time after the function runs, and then subtracting the start time from the stop time. Python's time library will help us with this.
 
-<script src="https://gist.github.com/chr1sbest/845216b9a9b09fa4bb3a.js"></script>
+<script src="https://gist.github.com/chr1sbest/4d6852b7908e638ac56d.js"></script>
 
 So it looks like we can either alter every function we've written to print out time details, or we can write new wrapper functions altogether for each function we want time details on. Surely there isn't a way to stay DRY without rewriting our functions.
 
