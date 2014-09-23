@@ -6,7 +6,7 @@ The **Decorator Pattern** in Object Oriented programming is defined as *a design
 
 Let's start with basics. Imagine we have a few functions that do some arbitrary math calculations.
 
-<script src="https://gist.github.com/chr1sbest/1a42d6c2168d3218d951.js"></script>
+<script src="https://gist.github.com/chr1sbest/9ac6e47d9f51dc957305.js"></script>
 
 In this example, we have one function that takes **(1)** argument and multiplies a number by 1.1 a million times. Our second function takes **(2)** arguments and divides a number by another number a million times. Arbitrary? Yes. But let's pretend they're mission critical and the success of our business depends on finding out which function runs faster!
 
