@@ -1,18 +1,32 @@
 **About me**
 ---
+- \- Software Engineer
+
+- \- Live in Berkeley
+
+- \- Enjoy playing basketball and Super Smash Bros. Melee
+
+- \- Eat a lot of Thai food
+
+**History**
+---
 Studied psychology at UC Berkeley while researching sleep and memory consolidation in Matt Walker's Lab. Being the zealous academic that I am, I took every opportunity to apply my lab's research during lectures.
 
-**I prefer the term "memory consolidation sessions" > "naps"**
+**Although, I prefer the term "memory consolidation sessions" > "naps"**
 
-After graduating, I worked a couple jobs and eventually realized I wanted to be a software engineer. I found a few brilliant mentors, left my job to teach myself computer science & web development full-time, co-founded a startup, left when the money ran out, studied for a month, and now I'm currently interviewing.
+After graduating, I worked a couple of lame jobs and eventually realized I wanted to be a software engineer. I found a few brilliant mentors, left my job to teach myself computer science & web development full-time, co-founded a startup, left when the money ran out, studied for a month to [close the gap](articles/coding/closing-the-gap), and now I'm working again as a full-time as a backend software engineer.
 
 **About this blog**
 ---
-Built with Harp on top of Nodejs. Hosted on Heroku. Disqus for comments.
+Built with Harp on top of Nodejs. Hosted on Heroku. Disqus for comments. Mixpanel for A/B Testing.
 
-**Adventures of a Self-Taught Developer**
+**Learning Computer Science**
 
-I want to write articles to give perspective on being a self-taught developer and help guide other self-taught developers to learn from my mistakes and triumphs.
+Here you will find my reviews and supplemental resources for courses that I have audited to learn computer science. These resources have been tremendously helpful, enlightening, and 100% free. Hopefully other motivated autodidacts can find these posts useful!
+
+**Topics in Coding**
+
+General topics in coding, mostly with Python.
 
 **Topics in Psychology**
 

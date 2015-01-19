@@ -1,0 +1,26 @@
+{
+  "decorators": {
+    "title": "Introduction to Python @Decorators",
+    "description": "Building a @timeit decorator to measure the execution time of functions.",
+    "published": true,
+    "date": "09/23/2014"
+  },
+  "closing-the-gap": {
+    "title": "Closing the Gap",
+    "description": "The pursuit of building scalable, reusable software.",
+    "published": true,
+    "date": "08/26/2014"
+  },
+  "10-tips-python": {
+    "title": "10 Tips for Writing Cleaner Python",
+    "description": "Additional guidelines on top of PEP-8 for cleaner Python code.",
+    "published": true,
+    "date": "07/21/2014"
+  },
+  "comparison-of-sorting-algorithms": {
+    "title": "Comparison of Sorting Algorithms",
+    "description": "Implementations and use-cases of common sorting algorithms in Python.",
+    "published": false,
+    "date": "In Progress"
+  }
+}

@@ -1,30 +1,46 @@
-h2  
-    strong Adventures of a Self-Taught Developer
+// First Subject
+h2
+  strong Learning Computer Science
 p
-    ul
-        each article, slug in public.articles.cs._data
-            li
-                if article.published!==false
-                    a(href="/articles/cs/#{ slug }") #{ article.title }
-                    span.date   | #{ article.date }
-                    p(style="font-style: italic") #{ article.description }
-                else
-                    p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-                    p(style="font-style: italic") #{ article.description }
-
-
+  ul
+    each article, slug in public.articles.cs._data
+      li
+        if article.published !== false
+          a(href="/articles/cs/#{ slug }") #{ article.title }
+          span.date   | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
+        else
+          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
 br
-h2 
-    strong Topics in Psychology
-p
-    ul
-        each article, slug in public.articles.psychology._data
-            li
-                if article.published!==false
-                    a(href="/articles/psychology/#{ slug }") #{ article.title }
-                    span.date   | #{ article.date }
-                    p(style="font-style: italic") #{ article.description }
-                else
-                    p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-                    p(style="font-style: italic") #{ article.description }
 
+// First Subject
+h2
+  strong Topics in Coding
+p
+  ul
+    each article, slug in public.articles.coding._data
+      li
+        if article.published!==false
+          a(href="/articles/coding/#{ slug }") #{ article.title }
+          span.date   | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
+        else
+          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
+br
+
+// Second Subject
+h2 
+  strong Topics in Psychology
+p
+  ul
+    each article, slug in public.articles.psychology._data
+      li
+        if article.published!==false
+          a(href="/articles/psychology/#{ slug }") #{ article.title }
+          span.date   | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
+        else
+          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
