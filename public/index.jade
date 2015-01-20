@@ -1,6 +1,8 @@
 // First Subject
 h2
   strong Learning Computer Science
+p Reviews and supplemental resources for courses that I have audited to learn computer science.  These resources have been tremendously helpful, mind-blowing, and 100% free. The total cost of enrollment for the courses reviewed below is typically over <span style="color: green; font-weight: bold">$5520</span>. Hopefully other motivated, frugal autodidacts can find these posts useful!
+
 p
   ul
     each article, slug in public.articles.cs._data
@@ -14,14 +16,16 @@ p
           p(style="font-style: italic") #{ article.description }
 br
 
-// First Subject
+// Second Subject
 h2
   strong Topics in Coding
+
+p Assorted posts for the pragmatic programmer. Less theory and more practical applications of (mostly Python) conventions and ideas.
 p
   ul
     each article, slug in public.articles.coding._data
       li
-        if article.published!==false
+        if article.published !== false
           a(href="/articles/coding/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
           p(style="font-style: italic") #{ article.description }
@@ -30,14 +34,15 @@ p
           p(style="font-style: italic") #{ article.description }
 br
 
-// Second Subject
+// Third Subject
 h2 
   strong Topics in Psychology
+p A bachelor's degree in Psychology, although labelled "irrelevant" to my trade, is not something I am ashamed of. The knowledge gained from the courses I took as a Psychology major have changed my life for the better and shaped me into a happy, tolerant, and confident individual. Here are some posts on relatable aspects of human nature that I've found interesting.
 p
   ul
     each article, slug in public.articles.psychology._data
       li
-        if article.published!==false
+        if article.published !== false
           a(href="/articles/psychology/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
           p(style="font-style: italic") #{ article.description }

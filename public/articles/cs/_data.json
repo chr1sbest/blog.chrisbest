@@ -1,7 +1,7 @@
 {
   "overview": {
-    "title": "Overview",
-    "description": "My story of being a self-taugh software engineer and the resources I've found to be the most helpful.",
+    "title": "Overview of Computer Science Curriculum",
+    "description": "",
     "published": false,
     "date": "In Progress"
   },
@@ -18,9 +18,9 @@
     "date": "In Progress"
   },
   "61c": {
-    "title": "Berkeley 61C: Great Ideas in Computer Science",
+    "title": "Berkeley 61C: Great Ideas in Computer Architecture",
     "description": "Review of and resources for the final course in CS61 series.",
-    "published": false,
-    "date": "In Progress"
+    "published": true,
+    "date": "1/20/2015"
   }
 }
