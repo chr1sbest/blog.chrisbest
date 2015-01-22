@@ -1,9 +1,9 @@
 {
   "two-years-of-vim": {
     "title": "Two Years of Vim",
-    "description": "My most impactful .vimrc changes and tips collected over two years.",
+    "description": "Vim-related customizations and hacks collected over two years.",
     "published": true,
-    "date": "01/21/2014"
+    "date": "01/22/2014"
   },
   "decorators": {
     "title": "Introduction to Python @Decorators",
