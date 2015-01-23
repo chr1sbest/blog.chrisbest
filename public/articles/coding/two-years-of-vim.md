@@ -74,8 +74,13 @@ I took some influence from Chrome and Firefox's interfaces and instantiate new t
 ```
 set splitright
 set splitbelow
+
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
 ```
-As for splits, I've really only needed one simple change for them to feel natural. This will make it so new splits will open on the right (instead of left) and below (instead of above).
+As for splits, there are two changes that have helped smooth out my workflow. The first part makes it so new splits will open on the right (instead of left) and below (instead of above). The second portion maps Ctrl + (hjkl) to move between splits, i.e. **Ctrl + h** will move me to the left split, **Ctrl + l** will move me to the right split.
 
 <hr>
 **Plugins**
