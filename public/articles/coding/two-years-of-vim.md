@@ -80,7 +80,7 @@ As for splits, I've really only needed one simple change for them to feel natura
 <hr>
 **Plugins**
 ---
-[Vundle](https://github.com/gmarik/Vundle.vim) is a vim plugin manager similar to Pathogen. If you're interested in sliding the scale a little further from text editor into an IDE (the dark side), there are a ton of posts out there about "Top Vim Plugins" and etc. Vundle makes it super easy to install and manage your plugins.
+[Vundle](https://github.com/gmarik/Vundle.vim) is a vim plugin manager similar to Pathogen, both make it super easy to install and manage your plugins. If you're interested in sliding the scale a little further from text editor into an IDE (the dark side), there are a ton of posts out there about "Top Vim Plugins" and etc. 
 
 [Ctrl-P](https://github.com/kien/ctrlp.vim) - My favorite vim plugin period. Full path fuzzy file, buffer, etc. finder. No more **:e ../../some_dir/some_file**, just **Ctrl + p some_file**. Super useful for opening up multiple files from different directories really quickly as well.
 
@@ -90,7 +90,7 @@ As for splits, I've really only needed one simple change for them to feel natura
 
 [NerdTree](https://github.com/scrooloose/nerdtree) - Good for those coming from an IDE. Opens up a directory tree that you can navigate and open files up from.
 
-[Airline](https://github.com/bling/vim-airline) - Look good feel good. This one is purely asthetic, but it plays really well other plugins nicely.
+[Airline](https://github.com/bling/vim-airline) - Look good feel good. This one is purely aesthetic, but it plays really well other plugins nicely.
 
 <img src="https://raw.githubusercontent.com/wiki/bling/vim-airline/screenshots/demo.gif">
 
