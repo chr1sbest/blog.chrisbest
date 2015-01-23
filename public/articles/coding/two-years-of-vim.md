@@ -27,7 +27,7 @@ Typing "jk" is significantly easier than reaching over and pressing ESC. With th
 ```
 nnoremap ; :
 ```
-It's a huge hassle to have to press shift when executing colon command and the semicolon isn't used for anything anyways. Probably isn't anywhere near 60 miles worth of movement saved, but this is definitely my second most useful mapping.
+It's a huge hassle to have to press shift when executing colon commands and <s>the semicolon isn't used for anything anyways</s> I haven't needed the ; due to my lack of experience with the f and t commands (thanks [TheSploogeMcDuck](http://www.reddit.com/user/TheSploogeMcDuck)!) It isn't anywhere near 60 miles worth of movement saved, but it's saved me a lot of frustration when trying to execute colon commands.
 
 **Move cursor by line naturally with k and j in navigation mode.**
 ```
