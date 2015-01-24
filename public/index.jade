@@ -10,10 +10,9 @@ p
         if article.published !== false
           a(href="/articles/coding/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
         else
           p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
+        p(class="article-description") #{ article.description }
 br
 
 // Second Subject
@@ -28,10 +27,9 @@ p
         if article.published !== false
           a(href="/articles/cs/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
         else
           p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
+        p(class="article-description") #{ article.description }
 br
 
 
@@ -46,7 +44,6 @@ p
         if article.published !== false
           a(href="/articles/psychology/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
         else
           p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
+        p(class="article-description") #{ article.description }
