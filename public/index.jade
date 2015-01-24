@@ -11,9 +11,9 @@ p
           a(href="/articles/coding/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
         else
-          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-        p(class="article-description") #{ article.description }
-br
+          p(style="text-decoration: underline; margin-bottom: 0em") #{ article.title }  | #{ article.date }
+        p.article-description #{ article.description }
+hr
 
 // Second Subject
 h2
@@ -28,10 +28,9 @@ p
           a(href="/articles/cs/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
         else
-          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-        p(class="article-description") #{ article.description }
-br
-
+          p(style="text-decoration: underline; margin-bottom: 0em") #{ article.title }  | #{ article.date }
+        p.article-description #{ article.description }
+hr
 
 // Third Subject
 h2 
@@ -45,5 +44,5 @@ p
           a(href="/articles/psychology/#{ slug }") #{ article.title }
           span.date   | #{ article.date }
         else
-          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-        p(class="article-description") #{ article.description }
+          p(style="text-decoration: underline; margin-bottom: 0em") #{ article.title }  | #{ article.date }
+        p.article-description #{ article.description }
