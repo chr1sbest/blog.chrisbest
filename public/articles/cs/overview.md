@@ -1,8 +1,5 @@
-Learning to Build Software
+Overview of Learning Computer Science
 ====
-introductory content
-
-**bold *italic* **
 
 ** Academic Coursework **
 ------
