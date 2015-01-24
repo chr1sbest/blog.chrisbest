@@ -108,6 +108,7 @@ If you like vim and you like Chrome, [vimium](https://chrome.google.com/webstore
 <iframe width="560" height="350" src="//www.youtube.com/embed/t67Sn0RGK54" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<br>
 **Easily and unintrusively use your .vimrc from any computer.**
 ---
 There are a few ways to do this, but my preferred method is cloning my dotfiles repo and executing a bash script to symlink my .vimrc to my home directory. This makes sure changes stay in sync with a simple git pull and also lets me restore them with ease if I'm on a shared environment.

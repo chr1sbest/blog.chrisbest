@@ -1,5 +1,23 @@
 // First Subject
 h2
+  strong Topics in Coding
+
+p Assorted posts for the pragmatic programmer. Less theory and more practical applications of (mostly Python) conventions and ideas.
+p
+  ul
+    each article, slug in public.articles.coding._data
+      li
+        if article.published !== false
+          a(href="/articles/coding/#{ slug }") #{ article.title }
+          span.date   | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
+        else
+          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
+          p(style="font-style: italic") #{ article.description }
+br
+
+// Second Subject
+h2
   strong Learning Computer Science
 p Reviews and supplemental resources for courses that I have audited to learn computer science.  These resources have been tremendously helpful, mind-blowing, and 100% free. The total cost of enrollment for the courses reviewed below is typically over <span style="color: green; font-weight: bold">$5520</span>. Hopefully other motivated, frugal autodidacts can find these posts useful!
 
@@ -16,23 +34,6 @@ p
           p(style="font-style: italic") #{ article.description }
 br
 
-// Second Subject
-h2
-  strong Topics in Coding
-
-p Assorted posts for the pragmatic programmer. Less theory and more practical applications of (mostly Python) conventions and ideas.
-p
-  ul
-    each article, slug in public.articles.coding._data
-      li
-        if article.published !== false
-          a(href="/articles/coding/#{ slug }") #{ article.title }
-          span.date   | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
-        else
-          p(style="text-decoration: underline") #{ article.title }  | #{ article.date }
-          p(style="font-style: italic") #{ article.description }
-br
 
 // Third Subject
 h2 
