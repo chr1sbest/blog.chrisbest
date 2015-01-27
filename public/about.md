@@ -18,4 +18,4 @@ After graduating, I worked a couple of lame jobs and eventually realized I wante
 
 **About this blog**
 ---
-Built with Harp on top of Nodejs. Managed with Git. Hosted on Heroku. Disqus for comments. Mixpanel for A/B Testing. Vim only, no items, final destination.
+Built with Harp on top of Nodejs. Managed with Git. Hosted on Heroku. Disqus for comments. Google Analytics for tracking. Vim only, no items, final destination.
