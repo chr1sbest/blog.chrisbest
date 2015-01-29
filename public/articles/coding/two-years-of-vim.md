@@ -95,7 +95,7 @@ As for splits, there are two changes that have helped smooth out my workflow. Th
 
 [NerdTree](https://github.com/scrooloose/nerdtree) - Good for those coming from an IDE. Opens up a directory tree that you can navigate and open files up from.
 
-[Airline](https://github.com/bling/vim-airline) - Look good feel good. This one is purely aesthetic, but it plays really well other plugins nicely.
+[Airline](https://github.com/bling/vim-airline) - Look good feel good. This one is purely aesthetic, but it plays really nicely with other plugins.
 
 <img src="https://raw.githubusercontent.com/wiki/bling/vim-airline/screenshots/demo.gif">
 
