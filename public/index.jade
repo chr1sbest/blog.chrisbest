@@ -34,15 +34,13 @@ hr
 
 // Third Subject
 h2 
-  strong Topics in Psychology
-p A bachelor's degree in Psychology, although labelled "irrelevant" to my trade, is not something I am ashamed of. The knowledge gained from the courses I took as a Psychology major have changed my life for the better and shaped me into a happy, tolerant, and confident individual. Here are some posts on relatable aspects of human nature that I've found interesting.
-p
-  ul
-    each article, slug in public.articles.psychology._data
-      li
-        if article.published !== false
-          a(href="/articles/psychology/#{ slug }") #{ article.title }
-          span.date   | #{ article.date }
-        else
-          p(style="text-decoration: underline; margin-bottom: 0em") #{ article.title }  | #{ article.date }
-        p.article-description #{ article.description }
+  strong Etc.
+ul
+  each article, slug in public.articles.etc._data
+    li
+      if article.published !== false
+        a(href="/articles/etc/#{ slug }") #{ article.title }
+        span.date   | #{ article.date }
+      else
+        p(style="text-decoration: underline; margin-bottom: 0em") #{ article.title }  | #{ article.date }
+      p.article-description #{ article.description }
