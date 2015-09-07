@@ -8,8 +8,8 @@
   "61a": {
     "title": "Berkeley 61A: Structure and Interpretation of Computer Programs",
     "description": "Review of and resources for the first course in CS61 series.",
-    "published": false,
-    "date": "In Progress"
+    "published": true,
+    "date": "08/05/2015"
   },
   "61b": {
     "title": "Berkeley 61B: Data Structures",
